@@ -12,7 +12,7 @@ namespace If_else
         {
             int a;
             int b;
-            Console.WriteLine("Enter two numbers: ");
+            Console.WriteLine("Enter number: ");
             a = Convert.ToInt32(Console.ReadLine());    
             if (a <= 50)
              {
