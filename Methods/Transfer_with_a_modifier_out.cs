@@ -10,7 +10,7 @@ namespace Transfer_with_a_modifier_out
     {
         static void GetValues(out int x, out int y)
         {
-            x = 5;
+            x = 6;
             y = 42;
         }
         static void Main(string[] args)
