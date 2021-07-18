@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace If_else
+namespace If_else_if
 {
-    class If_else
+    class If_else_if
     {
         static void Main(string[] args)
         {
