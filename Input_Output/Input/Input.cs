@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Input_Output
+namespace Input
 {
-    class Calculator
+    class Input
     {
         static void Main(string[] args)
         {
