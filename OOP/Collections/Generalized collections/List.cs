@@ -17,13 +17,13 @@ namespace List
             li.Add(5);
             li.Add(9);
             li.Remove(1);
-            Console.WriteLine("\n List: ");
+            Console.Write("\n List: ");
             for (int x = 0; x < li.Count; x++)
-                Console.WriteLine(li[x] + " ");
+                Console.Write(li[x] + " ");
             li.Sort();
-            Console.WriteLine("\n Sorted: ");
+            Console.Write("\n Sorted: ");
             for (int x = 0; x < li.Count; x++)
-                Console.WriteLine(li[x] + " ");
+                Console.Write(li[x] + " ");
         }
     }
 }
