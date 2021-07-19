@@ -11,9 +11,9 @@ namespace bitarray
     {
         public static void PrintBarr(string name, BitArray ba)
         {
-            Console.WriteLine(name + " : ");
+            Console.Write(name + " : ");
             for (int x = 0; x < ba.Length; x++)
-                Console.WriteLine(ba.Get(x) + " ");
+                Console.Write(ba.Get(x) + " ");
             Console.WriteLine();
         }
         static void Main(string[] args)
@@ -29,6 +29,7 @@ namespace bitarray
 
             PrintBarr("ba1", ba1);
             PrintBarr("ba2", ba2);
+            Console.WriteLine();
 
             PrintBarr("ba1 AND ba2", ba1.And(ba2));
             PrintBarr("Not ba2", ba2.Not());
