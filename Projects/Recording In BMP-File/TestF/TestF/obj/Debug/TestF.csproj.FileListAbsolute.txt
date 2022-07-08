@@ -1,0 +1,8 @@
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\bin\Debug\TestF.exe
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\bin\Debug\TestF.pdb
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\obj\Debug\TestF.Form1.resources
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\obj\Debug\TestF.Properties.Resources.resources
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\obj\Debug\TestF.csproj.GenerateResource.Cache
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\obj\Debug\TestF.exe
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\obj\Debug\TestF.pdb

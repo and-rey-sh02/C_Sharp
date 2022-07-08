@@ -1,0 +1,27 @@
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\bin\Release\TestF.exe
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\bin\Release\TestF.pdb
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\obj\Release\TestF.Form1.resources
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\obj\Release\TestF.Properties.Resources.resources
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\obj\Release\TestF.csproj.GenerateResource.Cache
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\obj\Release\TestF.exe
+C:\Users\Rudiuk\AppData\Local\Temporary Projects\TestF\obj\Release\TestF.pdb
+C:\Users\Rudiuk\Desktop\TestProject\TestF\TestF\obj\Release\TestF.exe
+C:\Users\Rudiuk\Desktop\TestProject\TestF\TestF\obj\Release\TestF.pdb
+C:\Users\Andre\Desktop\TestProject\TestF\TestF\obj\Release\TestF.exe
+C:\Users\Andre\Desktop\TestProject\TestF\TestF\obj\Release\TestF.pdb
+C:\Users\Andre\Desktop\TestProject\TestF\TestF\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\TestProject\TestF\TestF\obj\Release\TestF.Form1.resources
+C:\Users\Andre\Desktop\TestProject\TestF\TestF\obj\Release\TestF.Properties.Resources.resources
+C:\Users\Andre\Desktop\TestProject\TestF\TestF\obj\Release\TestF.csproj.GenerateResource.Cache
+C:\Users\Andre\Desktop\TestProject\TestF\TestF\bin\Release\TestF.exe
+C:\Users\Andre\Desktop\TestProject\TestF\TestF\bin\Release\TestF.pdb
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\bin\Release\TestF.exe
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\bin\Release\TestF.pdb
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\TestF.csprojAssemblyReference.cache
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\TestF.Form1.resources
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\TestF.Properties.Resources.resources
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\TestF.csproj.GenerateResource.cache
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\TestF.csproj.CoreCompileInputs.cache
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\TestF.exe
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\TestF.pdb
