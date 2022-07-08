@@ -1,9 +1,0 @@
-d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\bin\Release\TestF.exe
-d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\bin\Release\TestF.pdb
-d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\RecordingBMP.csprojAssemblyReference.cache
-d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\TestF.Form1.resources
-d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\TestF.Properties.Resources.resources
-d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\RecordingBMP.csproj.GenerateResource.cache
-d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\RecordingBMP.csproj.CoreCompileInputs.cache
-d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\TestF.exe
-d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\TestF\TestF\obj\Release\TestF.pdb
