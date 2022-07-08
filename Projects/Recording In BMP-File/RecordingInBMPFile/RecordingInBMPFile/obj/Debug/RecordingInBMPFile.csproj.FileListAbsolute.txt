@@ -1,0 +1,10 @@
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\RecordingInBMPFile\RecordingInBMPFile\bin\Debug\RecordingInBMPFile.exe.config
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\RecordingInBMPFile\RecordingInBMPFile\bin\Debug\RecordingInBMPFile.exe
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\RecordingInBMPFile\RecordingInBMPFile\bin\Debug\RecordingInBMPFile.pdb
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\RecordingInBMPFile\RecordingInBMPFile\obj\Debug\RecordingInBMPFile.csprojAssemblyReference.cache
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\RecordingInBMPFile\RecordingInBMPFile\obj\Debug\RecordingInBMPFile.Form1.resources
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\RecordingInBMPFile\RecordingInBMPFile\obj\Debug\RecordingInBMPFile.Properties.Resources.resources
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\RecordingInBMPFile\RecordingInBMPFile\obj\Debug\RecordingInBMPFile.csproj.GenerateResource.cache
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\RecordingInBMPFile\RecordingInBMPFile\obj\Debug\RecordingInBMPFile.csproj.CoreCompileInputs.cache
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\RecordingInBMPFile\RecordingInBMPFile\obj\Debug\RecordingInBMPFile.exe
+d:\WinUsers\KATERINA\Desktop\Recording In BMP-File\RecordingInBMPFile\RecordingInBMPFile\obj\Debug\RecordingInBMPFile.pdb
