@@ -1,0 +1,8 @@
+C:\Users\Andre\Desktop\ComportsTest\ComportsTest\bin\Release\ComportsTest.exe
+C:\Users\Andre\Desktop\ComportsTest\ComportsTest\bin\Release\ComportsTest.pdb
+C:\Users\Andre\Desktop\ComportsTest\ComportsTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\ComportsTest\ComportsTest\obj\Release\ComportsTest.Form1.resources
+C:\Users\Andre\Desktop\ComportsTest\ComportsTest\obj\Release\ComportsTest.Properties.Resources.resources
+C:\Users\Andre\Desktop\ComportsTest\ComportsTest\obj\Release\ComportsTest.csproj.GenerateResource.Cache
+C:\Users\Andre\Desktop\ComportsTest\ComportsTest\obj\Release\ComportsTest.exe
+C:\Users\Andre\Desktop\ComportsTest\ComportsTest\obj\Release\ComportsTest.pdb
